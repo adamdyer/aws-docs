@@ -2,7 +2,7 @@
 
 ### Ubuntu 18
 
-sudo apt install awscli
+```sudo apt install awscli```
 
 #### Ubuntu 16
 
