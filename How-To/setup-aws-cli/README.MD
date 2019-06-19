@@ -1,7 +1,8 @@
 # Install Python, pip, and AWS Command Line Interface on Ubuntu
 
-## Install `pip`,
-```sudo apt install python3-pip
+### Install Pip
+```
+sudo apt install python3-pip
 ```
 
 #### Include the path in your profile
