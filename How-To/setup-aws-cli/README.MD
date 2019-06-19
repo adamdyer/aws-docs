@@ -1,10 +1,7 @@
-# Install Python, pip, and AWS Command Line Interface on Linux ( Redhat / CentOS )
+# Install Python, pip, and AWS Command Line Interface on Ubuntu
 
 ## Install `pip`
-```sh
-cd /tmp
-curl -O https://bootstrap.pypa.io/get-pip.py
-python get-pip.py --user
+```sudo apt install python3-pip
 ```
 
 #### Include the path in your profile
