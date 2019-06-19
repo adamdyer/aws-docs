@@ -5,25 +5,9 @@
 sudo apt install python3-pip
 ```
 
-#### Include the path in your profile
-The PIP install location in Linux with pip (user mode) is `~/.local/bin`, so lets add it to our path
-```sh
-export PATH=~/.local/bin:$PATH
-source ~/.bash_profile
-```
-
 ### Verify that pip is installed correctly.
 ```sh
-pip --version
-```
-##### If the above didn't work, you may have python3, try the below command
-```sh
-python3 get-pip.py --user
-pip --version
-```
-You should see something like
-```
-pip 8.1.2 from ~/.local/lib/python3.4/site-packages (python 3.4)
+pip3 --version
 ```
 
 ## Install AWS CLI
