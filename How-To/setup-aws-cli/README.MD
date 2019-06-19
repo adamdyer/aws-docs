@@ -12,7 +12,7 @@ pip3 --version
 
 ## Install AWS CLI
 ```
-pip install awscli --upgrade --user
+pip3 install awscli --upgrade --user
 ```
 
 ### Check version of AWS CLI
